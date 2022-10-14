@@ -1,0 +1,47 @@
+.comp_bg {
+  background: linear-gradient(263.88deg, #6bff9d 1.59%, rgba(35, 147, 73, 0.84) 98.92%);
+  border-radius: 30px;
+}
+
+.text_infoo {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: #fff;
+}
+.text_infoo a {
+  color: #fff;
+}
+
+.free_bg {
+  background: #daf9e8;
+  border-radius: 30px;
+  padding: 40px 40px 40px 40px;
+  max-width: 600px;
+  min-height: 250px;
+}
+
+.fast-bg {
+  background: #e5ecff;
+  border-radius: 30px;
+  padding: 40px 40px 40px 40px;
+  max-width: 600px;
+  min-height: 250px;
+}
+
+.bonuses-bg {
+  border-radius: 30px;
+  padding: 40px 40px 40px 40px;
+  background: #23262b;
+  max-width: 600px;
+  min-height: 250px;
+  color: #fff;
+}
+
+.cooperation-bg {
+  border-radius: 30px;
+  padding: 40px 40px 40px 40px;
+  background: #fef5e2;
+  max-width: 600px;
+  min-height: 250px;
+}/*# sourceMappingURL=style_info.css.map */

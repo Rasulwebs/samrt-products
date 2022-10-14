@@ -1,0 +1,22 @@
+.foot_links {
+  text-decoration: none;
+  font-size: 16px;
+  line-height: 30px;
+  /* identical to box height */
+  color: #000000;
+  opacity: 0.6;
+}
+.end_text{
+    color: #626262;
+}
+
+@media only screen and (max-width:576px) {
+.logo_infoo, .about_us, .why_choise, .payment, .social_media, .contact_us{
+  text-align: center !important;
+}
+ 
+
+}
+ 
+
+

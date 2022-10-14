@@ -1,0 +1,37 @@
+.bg-image {
+  position: relative;
+}
+
+.discout_news {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: absolute;
+  width: 80px;
+  height: 80px;
+  font-size: 20px;
+  border-radius: 50%;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  -ms-border-radius: 50%;
+  -o-border-radius: 50%;
+  background: rgba(231, 92, 92, 0.1);
+  border: 1.66px solid rgba(255, 255, 255, 0.2);
+  -webkit-backdrop-filter: blur(5.53333px);
+          backdrop-filter: blur(5.53333px);
+  color: #E23434;
+  z-index: 3;
+  transform: rotate(-30deg);
+  -webkit-transform: rotate(-30deg);
+  -moz-transform: rotate(-30deg);
+  -ms-transform: rotate(-30deg);
+  -o-transform: rotate(-30deg);
+}
+
+.disabled_price {
+  text-decoration: none;
+  color: rgb(84, 84, 84);
+  -webkit-text-decoration-line: line-through;
+          text-decoration-line: line-through;
+  -moz-text-decoration-line: line-through;
+}/*# sourceMappingURL=style_sale_cards.css.map */

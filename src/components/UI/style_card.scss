@@ -1,0 +1,48 @@
+.card{
+    position: relative;
+    background-color: #ededed;
+    max-width: 400px;
+    border: none ;
+    padding-top: 10px;
+    transition: all 0.2s ease;
+    -webkit-transition: all 0.2s ease;
+    -moz-transition: all 0.2s ease;
+    -ms-transition: all 0.2s ease;
+    -o-transition: all 0.2s ease;
+border: 1px solid rgba(140, 140, 140, 0.33);
+&:hover{
+    border: 1px solid rgb(106, 106, 106)
+}
+}
+.card-body{
+    height: 200px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.card-img{
+    max-width: 250px;
+    width: 100%;
+    margin: auto;
+    object-fit:contain;
+    
+} 
+.bg-image{
+    height: 270px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #ededed32;
+}
+.price{
+    border-radius: 40px;
+    -webkit-border-radius: 40px;
+    -moz-border-radius: 40px;
+    -ms-border-radius: 40px;
+    -o-border-radius: 40px;
+}
+.star{
+    width: 25px;
+}
